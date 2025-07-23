@@ -1,3 +1,4 @@
+..
 <html lang="id">
 	<head>
 
@@ -136,10 +137,7 @@
 
 			<div role="main" class="main">
 				<section class="page-header page-header-custom-background mb-none" data-stellar-background-ratio="0" style="background-image: url(https://sinkarkes.kemkes.go.id/assets/img/slide-cek-dokumen.jpg);">
-<head>
-  <meta charset="UTF-8">
-  <title>Certificate Title</title>
-  <style>
+ <style>
     body
     .title-container {
       display: center;
@@ -154,16 +152,10 @@
       accent-color: white;
     }
   </style>
-</head>
-<body>
-
-  <div class="title-container">
+ <div class="title-container">
     <input type="checkbox" checked disabled>
     <h1>International Certificate Vaccination Or Prophylaxis</h1>
   </div>
-
-</body>
-</head>
 	</div>
 </section>
 <section class="section section-default mt-none">
