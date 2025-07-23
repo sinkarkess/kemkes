@@ -136,14 +136,13 @@
 
 			<div role="main" class="main">
 				<section class="page-header page-header-custom-background mb-none" data-stellar-background-ratio="0" style="background-image: url(https://sinkarkes.kemkes.go.id/assets/img/slide-cek-dokumen.jpg);">
-<div class="container">
-  <div class="row">
-    <div class="col-md-12 d-flex align-items-center">
-      <input type="checkbox" checked disabled class="me-2" style="width: 20px; height: 20px;">
-      <h1 class="mb-0">International Certificate Vaccination Or Prophylaxis</h1>
-    </div>
-  </div>
-</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1><i class="fa fa-check-square-o"></i> International Certificate Vaccination Or Prophylaxis</h1>
+			</div>
+		</div>
+	</div>
 </section>
 <section class="section section-default mt-none">
 	<div class="container">
