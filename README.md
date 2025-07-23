@@ -1,4 +1,3 @@
-..
 <html lang="id">
 	<head>
 
@@ -137,25 +136,31 @@
 
 			<div role="main" class="main">
 				<section class="page-header page-header-custom-background mb-none" data-stellar-background-ratio="0" style="background-image: url(https://sinkarkes.kemkes.go.id/assets/img/slide-cek-dokumen.jpg);">
- <style>
-    body
+ <div class="title-container">
+    <input type="checkbox" checked disabled>
+    <h1>International Certificate Vaccination Or Prophylaxis</h1>
+	<style>
     .title-container {
       display: center;
-      align-items: flex;
-      padding: 35px 20px;
+      align-items: center;
+      padding: 30px 20px;
     }
 
     .title-container input[type="checkbox"] {
       width: 20px;
       height: 20px;
-      margin-right: 15;
+      margin-right: 12px;
       accent-color: white;
     }
-  </style>
- <div class="title-container">
-    <input type="checkbox" checked disabled>
-    <h1>International Certificate Vaccination Or Prophylaxis</h1>
-  </div>
+
+    .title-container h1 {
+      font-size: 24px;
+      font-weight: 400;
+      margin: 0;
+    }
+	</style>	
+			</div>
+		</div>
 	</div>
 </section>
 <section class="section section-default mt-none">
