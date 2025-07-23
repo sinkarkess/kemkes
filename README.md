@@ -1,4 +1,3 @@
-..
 <html lang="id">
 	<head>
 
@@ -137,46 +136,18 @@
 
 			<div role="main" class="main">
 				<section class="page-header page-header-custom-background mb-none" data-stellar-background-ratio="0" style="background-image: url(https://sinkarkes.kemkes.go.id/assets/img/slide-cek-dokumen.jpg);">
-<head>
-  <meta charset="UTF-8">
-  <title>Certificate Title</title>
-  <style>
-    body
-    .title-container {
-      display: center;
-      align-items: flex;
-      padding: 35px 20px;
-    }
-
-    .title-container input[type="checkbox"] {
-      width: 20px;
-      height: 20px;
-      margin-right: 15;
-      accent-color: white;
-    }
-
-    .title-container h1 {
-      font-size: 24px;
-      font-weight: 400;
-      margin: 0;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="title-container">
-    <input type="checkbox" checked disabled>
-    <h1>International Certificate Vaccination Or Prophylaxis</h1>
-  </div>
-
-</body>
-</head>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1><i class="fa fa-check-square-o"></i> International Certificate Vaccination Or Prophylaxis</h1>
+			</div>
+		</div>
 	</div>
 </section>
 <section class="section section-default mt-none">
 	<div class="container">
 		<div class="heading heading-border heading-bottom-border heading-primary">
-			<h3 class="heading-primary">E00-0101858
+			<h3 class="heading-primary">E00-0101850</h3>
 		</div>
 				<div class="form form-horizontal">
 			<div class="form-group">
@@ -188,31 +159,31 @@
 			<div class="form-group">
 				<label class="col-md-4 control-label">No. Dokumen</label>
 				<div class="col-md-8">
-					<p class="form-control-static">E00-0101858
+					<p class="form-control-static">E00-0101850</p>
 				</div>
 			</div>
 			<div class="form-group">
 				<label class="col-md-4 control-label">Barcode Number</label>
 				<div class="col-md-8">
-					<p class="form-control-static">E00-0101858
+					<p class="form-control-static">E00-0101850</p>
 				</div>
 			</div>
 			<div class="form-group">
 				<label class="col-md-4 control-label">This is to certify that [Name]</label>
 				<div class="col-md-8">
-					<p class="form-control-static">FEBRIYANI PIOKE BINTI ISMAIL PIOKE
+					<p class="form-control-static">ARMAN TARUNA BIN KADIR TARUNA</p>
 				</div>
 			</div>
 			<div class="form-group">
 				<label class="col-md-4 control-label">Date Of Birth</label>
 				<div class="col-md-8">
-					<p class="form-control-static">28th February 1988
+					<p class="form-control-static">1th July 1965</p>
 				</div>
 			</div>
 			<div class="form-group">
 				<label class="col-md-4 control-label">Sex</label>
 				<div class="col-md-8">
-					<p class="form-control-static">Female
+					<p class="form-control-static">Male</p>
 				</div>
 			</div>
 			<div class="form-group">
@@ -224,13 +195,13 @@
 			<div class="form-group">
 				<label class="col-md-4 control-label">National Identification Documents, If Applicable</label>
 				<div class="col-md-8">
-					<p class="form-control-static">E9488544
+					<p class="form-control-static">E9488548</p>
 				</div>
 			</div>
 			<div class="form-group">
 				<label class="col-md-4 control-label">Whose Signature Follows</label>
 				<div class="col-md-8">
-					<p class="form-control-static">FEBRIYANI PIOKE BINTI ISMAIL PIOKE
+					<p class="form-control-static">ARMAN TARUNA BIN KADIR TARUNA</p>
 				</div>
 			</div>
 			<div class="form-group">
